@@ -13,10 +13,10 @@ publisher: Modern Language Association
 type: book
 ---
 
-# READING [(draft)
+# READING (draft)
 
 ## Rachel Sagner Buurma
-Department of English Literature | Swarthmore College| [Website](http://rachelsagnerbuurma.org/)
+Department of English Literature | Swarthmore College | [Website](http://rachelsagnerbuurma.org/)
 
 ---
 
@@ -28,9 +28,15 @@ Department of English Literature | Swarthmore College| [Website](http://rachelsa
 
 ---
 
+#### Tags: text, reading, history, collaboration, classroom
+
+---
+
 ## CURATORIAL STATEMENT
 
-Reading has been transformed by digital media and computation, by the computer screen and the ereader, and e-ink - just as it was by the advent of machine printing, by the Gutenberg press, by advances in manuscript production, and the shift from scroll to codex, as well as by social and historical changes in everything from the economics of book production literacy and access to education. According to the most anxious report, this most recent transformation has destroyed our ability to read deeply, slowly, and linearly. "It is a cliché universally acknowledged," writes Rita Raley in the introduction to her "Distracted Reading" syllabus,
+In the beginning, we learn to read; after we are literate, we read to learn. In this received wisdom of early childhood education, reading is only temporarily difficult, material, intractable; afterwards, it recedes into the background, becoming the transparent skill through which we access worlds of knowledge. But we are in fact always learning to read and always learning about reading as we encounter new forms of media both major and minor.
+
+How we learn about reading's past, present and future seems especially important right now. Reading has been transformed by digital media and computation, by the computer screen and the ereader - just as it was by the advent of machine printing, by the Gutenberg press, by advances in manuscript production, and by the shift from scroll to codex, as well as by social and historical changes in everything from the economics of book production literacy and access to education. According to the most anxious reports, the advent of the screen is destroying our ability to read deeply, slowly, and linearly. "It is a cliché universally acknowledged," writes Rita Raley in the introduction to her "Distracted Reading" syllabus,
 
 > that we (where “we” means, variously, the Twitter generation, the Millennial generation, participants in the Network Society) no longer read, or if we do read, we read poorly, with insufficient attention and affect. Reading, by which is meant literary reading, is said to be a “lost art” and certainly “at risk.” We multitask and thus cannot sustain the kind of focus and attention required for a long, complex narrative.
 
@@ -39,21 +45,15 @@ Of course, as students of reading hastily reply, we have always read discontinuo
 > If books are essentially vertebral, contributing to our sense of human uniqueness that depends upon bodily uprightness, digital texts are more like invertebrates, subject to the laws of horizontal gene transfer and nonlocal regeneration. They, like jellyfish or hydra polyps, always elude our grasp in some fundamental sense. What this means for how we read -- and how we are taken hold of by what we read -- is still far from clear. (2-3)
 
 The fundamental uncertainty over the meaning of the addition of the distributed electronic text to a literary reading ecosystem previously defined by the "vertebral", bounded book (not to mention the printed form, the magazine, the newspaper, the manuscript, and the typescript) leads to a new pedagogical challenge for teachers whose fundamental charge is to teach students "how to read": how do we begin to teach students to understand the relationship between page and screen if we have only begun to grasp it ourselves? Thinking about the power dynamics of reading in " Jane Austen and the Secret of Style," D.A. Miller notes dangers of "being read reading."(  ) Reading in the digital age reduces none of these complications of reading's relation to identity and survival, but it raises yet another specter: the possibility that we are "being read" as data by machines as well as by humans.
+In the realm of the literary interpretation or "reading," of course, Stephen Ramsay has famously emphasized the continuities between human and machine reading. For Ramsay, literary criticism already contains "elements of the algorithmic." Both machine and literary-critical reading have in common a tendency towards strict repetitive protocols:
 
-These assignments rise to the challenge by taking hold of one of the most traditional aspects of humanities pedagogy: the classroom's role as a place where students and teachers create new knowledge together.
+>Any reading of a text that is not a recapitulation of that text relies on a heuristic of radical transformation. The critic who endeavors to put forth a “reading” puts forth not the text, but a new text in which the data has been paraphrased, elaborated, selected, truncated, and transduced. This basic property of critical methodology is evident not only in the act of “close reading” but also in the more ambitious project of thematic exegesis. In the classroom one encounters the professor instructing his or her students to turn to page 254, and then to page 16, and finally to page 400. They are told to consider just the male characters, or just the female ones, or to pay attention to the adjectives, the rhyme scheme, images of water, or the moment in which Nora Helmer confronts her husband...(*Reading Machines: Towards an Algorithmic Criticism*, 16)
 
-Now that we can turn on social highlight on our ereaders or upload our comments to Social Book
-This seems  classroom as social
-Knowledge production - knowledge about reading,
+Many of these assignments show us this continuity in action; whether they ask students to keep a commonplace book on a Pinterest board or teach close reading through Markdown encoding, the protocols of historical readers and reading communities find affinities with computational forms.
 
-Most of these assignments work to reveal to students that reading is social even when it feels most solitary. Whether we do alone in front of  a screen, aloud in a mosque, or silently in a crowded library, reading connects us to a general history and a
+The course on the history of reading in the west from scroll to codex to the ebook and computer screen is a genre in its own right; examples are Ann Blair's [History of the Book and of Reading](http://sites.fas.harvard.edu/~hist1318/), Timothy Burke's [The History of Reading](http://blogs.swarthmore.edu/burke/syllabi/history-62-the-history-of-reading-spring-2012/), and Adrian Johns's [A History of Reading]http://home.uchicago.edu/~johns/historyofreading). But the pasts, presents, and futures of reading make their way into a much wider range of syllabi,  appearing in period-specific courses (early modern readers in a Shakespeare class), and in classes ranging form book history and digital humanities to user experience, design, and information science. I should note there that I adhered fairly strictly the the "digital pedagogy" rubric, thus omitting important history of reading assignments like Sarah Werner's ["Your book's early readers and users"](http://sarahwerner.net/FolgerBooks/wp-content/uploads/2015/06/Assign3-early_users.pdf) and materiality of reading assignments like Jeffrey Makala's ["Reading By Candlelight"](https://www.academia.edu/11406932/Ways_of_Reading_Assignment_SCHC_454) as well as crucial how-to-read-in-college guides like And practical advice on How to Read in College and How to Study Materials Online
 
-
-The course on the history of reading in the west from scroll to codex to the ebook and computer screen is a genre in its own right; examples are Ann Blair's [History of the Book and of Reading](http://sites.fas.harvard.edu/~hist1318/), Timothy Burke's [The History of Reading](http://blogs.swarthmore.edu/burke/syllabi/history-62-the-history-of-reading-spring-2012/), and Adrian Johns's [A History of Reading]http://home.uchicago.edu/~johns/historyofreading). But the pasts, presents, and futures of reading make their way into a much wider range of syllabi,  appearing in period-specific courses (early modern readers in a Shakespeare class), and in classes ranging form book history and digital humanities to user experience, design, and information science. I should note there that I adhered fairly strictly the the "digital pedagogy" rubric, thus omitting important history of reading assignments like Sarah Werner's ["Your book's early readers and users"](http://sarahwerner.net/FolgerBooks/wp-content/uploads/2015/06/Assign3-early_users.pdf) and materiality of reading assignments like Jeffrey Makala's ["Reading By Candlelight"]https://www.academia.edu/11406932/Ways_of_Reading_Assignment_SCHC_454)
-
-The following assignments, projects, and resources bring the continuities and disjunctions between print and digital forms to the fore, and ask students to interrogate cultural messages and social assumptions about reading - their own and others' - by historicizing reading, reflecting on their own modes of engaging with texts on and offline, and speculating on the futures of reading. Distracted, discontinuous, materialized, black-boxed, close, distant, human machine - the way we name the forms of reading we practice every day help us grasp
-
-[Book history and digital pedagogy have shared a close relationship because, as Sarah Werner writes, digital tools have the power to "estrange ourselves from our books, to defamiliarize what we think we know, we might learn something new about how they were made and how they are used." They can bring us both closer to the physical book than we might otherwise get, and allow us to construct models of larger collections of books than we could humanly read. Stephen Ramsay, of course, has noted that one of the reasons that , and this goes for the investigation of the materiality of reading as well;]
+The following exercises, projects, and resources bring the continuities and disjunctions between print and digital forms to the fore, and ask students to interrogate cultural messages and social assumptions about reading - their own and others' - by historicizing reading, reflecting on their own modes of engaging with texts on and offline, and speculating on the futures of reading.  These assignments rise to the challenge of grappling with reading today by taking hold of one of the most longstanding, traditional aspects of humanities pedagogy: the classroom's role as a place where students and teachers both create *and* transmit new knowledge together. Just as digital technology and social media have given the collective aspects of reading a new visibility (if also a new ephemerality) - we can turn on social highlight on our ereaders , comment on blog posts, or socially bookmark - so too has digital pedagogy brought a new kind of visibility to the social knowledge creation practices of the classroom. Whether they imagine reading as distracted, discontinuous, materialized, black-boxed, close, distant, human, and machine, these assignments work to reveal to students that reading is social even when it feels most solitary. Whether we read alone in front of  a screen, aloud in a mosque, or silently in a crowded library, they show us, the practices of reading are always both material and collective.
 
 
 ## CURATED ARTIFACTS
@@ -91,7 +91,7 @@ Hypertext was revelatory to scholars in the humanities because it held out the p
 * Copy of the Artifact:
 * Creator and Affiliation: [Vimala Pasupathi](https://vcpasupathi.wordpress.com/), Hofstra University
 
-This assignment reimagines the short close reading paper as a commonplace book. Early modern readers often copied out passages from their reading into notebooks to make a personal repository of extracts for future reference. Vimala Pasupathi writes in her write-up of this assignment that  "it seems to me that there is no better way to teach students about the consumption of literary works and textual forms than to have them assemble their own Commonplace books."  Connecting early modern commonplacing to contemporary uses of Pinterest and Tumblr, Pasupathi asks students to create their own commonplace book by copying out weekly passages from the assigned Shakespeare play and writing paragraph-long close readings of each passage using in "a hard-copy diary of sorts, or on the web as a blog, Tumblr, or Pinterest page."  This assignment askes students to read work by Adam Hooks and Alan Jacobs on commonplace books. Another version of the assignment might also ask students to look first at [digitized commonplace books](http://ocp.hul.harvard.edu/reading/commonplace.html) like those in the Harvard University Library Open Collections Program as examples. The assignment could be easily adapted to any class asking students to think about questions of collection, quotation, or close reading, whether centered on early modern culture or not, though it gains extra meaning in the context of a class looking at early modern reading practices. In an upper-level undergraduate or a graduate class, this assignment could scale all the way up to asking students to build and maintain a commonplace book of research or open research notebook on the model of [Whitney Ann Trettien's](http://whitneyannetrettien.com/whiki/index.php?title=Main_Page), [W. Caleb McDaniel's](http://wiki.wcaleb.rice.edu), or [Shawn Graham's](http://shawngraham.github.io/).
+This assignment reimagines the short close reading paper as a commonplace book. Early modern readers often copied out passages from their reading into notebooks to make a personal repository of extracts for future reference. Vimala Pasupathi writes in her write-up of this assignment that  "it seems to me that there is no better way to teach students about the consumption of literary works and textual forms than to have them assemble their own Commonplace books."  Connecting early modern commonplacing to contemporary uses of Pinterest and Tumblr, Pasupathi asks students to create their own commonplace book by copying out weekly passages from the assigned Shakespeare play and writing paragraph-long close readings of each passage using in "a hard-copy diary of sorts, or on the web as a blog, Tumblr, or Pinterest page."  This assignment askes students to read work by Adam Hooks and Alan Jacobs on commonplace books. Another version of the assignment might also ask students to look first at [digitized commonplace books](http://ocp.hul.harvard.edu/reading/commonplace.html) like those in the "commonplace books" section of the online exhibit *Reading: Harvard Views of Readers, Readership, and Reading History* as examples. The assignment could be easily adapted to any class asking students to think about questions of collection, quotation, or close reading, whether centered on early modern culture or not, though it gains extra meaning in the context of a class looking at early modern reading practices. In an upper-level undergraduate or a graduate class, this assignment could scale all the way up to asking students to build and maintain a commonplace book of research or open research notebook on the model of [Whitney Ann Trettien's](http://whitneyannetrettien.com/whiki/index.php?title=Main_Page), [W. Caleb McDaniel's](http://wiki.wcaleb.rice.edu), or [Shawn Graham's](http://shawngraham.github.io/).
 
 ### Topic: Distracted Reading
 
@@ -128,8 +128,7 @@ In this assignment, undergraduates learn from and contribute to [Book Traces](ht
 * Source URL: [http://www.open.ac.uk/Arts/reading/UK/index.php](http://www.open.ac.uk/Arts/reading/UK/index.php)
 * Artifact Permissions: open-access database
 * Copy of the Artifact:
-* Creator and Affiliation: [UK RED Project Team](), The Open University
-### Topic: Machine Reading and Human Reading
+* Creator and Affiliation: [UK RED Project Team](http://www.open.ac.uk/Arts/RED/team.htm), The Open University
 
 UK RED "is an open-access database housed at The Open University containing over 30,000 easily searchable records documenting the history of reading in Britain from 1450 to 1945. Evidence of reading presented in UK RED is drawn from published and unpublished sources as diverse as diaries, commonplace books, memoirs, sociological surveys, and criminal court and prison records." A mine of primary material with about reading including careful metadata about reader, author, text, and place, the growing UK RED database could be the basis for assignments comparing the reception history of a single text across time, tracking the reading of individual readers, or looking at many readers' responses to a single text.
 
@@ -147,7 +146,7 @@ Scholars and students of the history of reading have disproved - over and over a
 ### Topic: Machine Reading and Human Reading
 
 ### Digital Markdown Edition of a Poem
-![screenshot](images/markdownedition.png)
+![screenshot](images/reading-markdownedition.png)
 * Artifact Type: Assignment
 * Source URL: [https://www.academia.edu/5947912/Assignment_Markdown_Digital_Edition_of_a_Poem](https://www.academia.edu/5947912/Assignment_Markdown_Digital_Edition_of_a_Poem)
 * Artifact Permissions: contacting author
@@ -157,7 +156,7 @@ Scholars and students of the history of reading have disproved - over and over a
 Ross's digital edition assignment asks students to think about active reading. Students choose a poem from the class syllabus and create a full digital edition ready for online publication, includingcareful transcription of the bio, an author biography, bibliography, introduction to the poem’s cultural and historical contexts, and at least fifteen word annotations. Asking students to "think beyond the word processor," Ross creates an additional layer of engagement by requiring that the text be Markdown-formatted, an aspect of the assignment that requires students to think about the relation between form and content in online writing. Revising this assignment to include more engagement with plain-text authoring conventions like Markdown could draw on parts of Programming Historian's [Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) tutorial by Dennis Tenen and Grant Wythoff. Another version of this exercise could use TEI encoding to engage students in a similar slow, active creation of an edited text and provoke some related meditations on textual encoding's relation to literary meaning and interpretation. Kate Singer's [Digital Close Reading: TEI for Teaching Poetic Vocabularies](http://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/) offers one good example. This assignment also suggests a flipped version: an exercise in which students would close read a marked-up text or even a snippet of code rather than using markup or encoding to close read.
 
 ### How to Not Read a Victorian Novel
-![screenshot](images/fyfenotreading.png)
+![screenshot](images/reading-fyfenotreading.png)
 * Artifact Type: Article
 *Artifact Type: Assignment
 * Source URL: [http://fsu.digital.flvc.org/islandora/object/fsu%3A207269](http://fsu.digital.flvc.org/islandora/object/fsu%3A207269)
@@ -168,36 +167,95 @@ Ross's digital edition assignment asks students to think about active reading. S
 In this article, published in the *Journal of Victorian Culture* 16.1 (Spring 2011), Paul Fyfe outlines an assignment in which he uses ready-made and freely-available online text analysis and visualizations tools to teach students how to create and interpret models of the text of a single Victorian novel. Asking students to slowly and deliberately move through the steps of text selection, preparation, model creation, and interpretation, Fyfe helps his students slow down to close read, and engages them in "self-conscious reflections about the limits, contingencies, and opportunities of alternative modes of interpretation." The assignment could be adapted to any text-based humanities course, and works especially well to interrogate the apparent divide between close and distant reading and to open up questions of canon creation and readerly attention. The original assignment Fyfe describes in the article used the no longer supported [TAPoRware](http://taporware.ualberta.ca), but the [Voyant 2.0 tools](http://voyant-tools.org/) and would plug into this assignment just as well or better.
 
 ### How to NOT Read Hemingway
-![screenshot](images/croxallnotreading.png)
+![screenshot](images/reading-croxallnotreading.png)
 * Artifact Type: Assignment
 * Source URL: [http://www.briancroxall.net/s15dh/assignments/how-to-not-read-hemingway/](http://www.briancroxall.net/s15dh/assignments/how-to-not-read-hemingway/)
 * Artifact Permissions: Copyright © 2016 Intro to DH. All Rights Reserved. Contact Brian? Remove/replace?
 * Copy of the Artifact:
 * Creator and Affiliation: [Brian Croxall](http://www.briancroxall.net/),  Brown University
 
-This interconnected series of assignments builds on some of the same concepts as Fyfe's and extends them into the realm of copyrighted texts. Moving from print to pixel to text analysis, in assignment Croxall and his students create a machine-readable corpus of Hemingway's works by disbinding, scanning, OCR-ing, and cleaning Hemingways's ouvre before using Voyant to analyze them. Taking students through the creation of the digital facsimile and the machine-readable text shows how difficult, interpretive, and iterative the preparatory steps of computational text analysis can be.
+This interconnected series of assignments builds on some of the same concepts as Fyfe's and extends them into the realm of copyrighted texts. Moving from print to pixel to text analysis, in assignment Croxall and his students create a machine-readable corpus of Hemingway's works by disbinding, scanning, OCR-ing, and cleaning Hemingways's ouvre before using Voyant to analyze them. Moving through the creation of the digital facsimile and the plain text, students gain a sense of how labor-intensive and interpretive the transition from human-readable to machine-readable can be.
+
 
 ## RELATED MATERIALS
 
-In MLA format, list five related items that are informative for teaching with your keyword in mind. **Please only include five items. No more, no less.**
+Jacobs, Alan.  *The Pleasures of Reading in an Age of Distraction*.
 
-For each item, include Author, Title, and URL, in alphabetical order.
+Piper, Andrew. *Book Was There: Reading in Electronic Times*.
 
-Items may include, but are not limited to:
-* Scholarly journal article
-* Book
-* Video, audio, or other dynamic media
-* Crowdsourced document
-* Blog post
+Price, Leah. 2004. “Reading: The State of the Discipline.”
 
-Sarah Warner on Where Material Book Culture Meets Digital Humanities http://journalofdigitalhumanities.org/1-3/where-material-book-culture-meets-digital-humanities-by-sarah-werner/
+Sterne, Laurence. *Tristram Shandy*.
+
+Werner, Sarah. "Where Material Book Culture Meets Digital Humanities." journalofdigitalhumanities.org/1-3/where-material-book-culture-meets-digital-humanities-by-sarah-werner/
+
 
 ## WORKS CITED
 
-A works cited for all references in your entry, including your ten artifacts, your five related materials, and anything referenced in your curatorial statement in MLA style.
+Anderson, Benedict. *Imagined Communities*.
 
-*Book Was There: Reading in Electronic Times* (Chicago, 2012),
+Blair, Ann.  *History of the Book and of Reading.* Web. Accessed April 15, 2016.
 
-Sarah Warner on Where Material Book Culture Meets Digital Humanities http://journalofdigitalhumanities.org/1-3/where-material-book-culture-meets-digital-humanities-by-sarah-werner/
+Burke, Timothy.  "The History of Reading." Syllabus. *Easily Distracted*.  Spring 2012. Web. Accessed April 15, 2016.
+
+Croxall, Brian. "How To Not Read Hemingway." *Intro to DH Eng 389, Emory University, Spring 2015*. www.briancroxall.net/s15dh/assignments/how-to-not-read-hemingway
+
+Fyfe, Paul. "How to Not Read a Victorian Novel." *Journal of Victorian Culture* 16.1 (Spring 2011): 84-88.
+
+Graham, Shawn. Open DH Lab Notebook. http://shawngraham.github.io/ Web. Accessed May 25, 2016.
+
+Harvard University Library Open Collections Program. "Commonplace books" in *Reading: Harvard Views of Readers, Readership, and Reading History*.  Web. Accessed May 25, 2016.
+
+Jacobs, Alan.  *The Pleasures of Reading in an Age of Distraction*. Oxford: Oxford University Press, 2011.
+
+Johns, Adrian. *A History of Reading* syllabus. Web. Accessed April 15, 2016.
+
+Makala, Jeffrey. "Ways of Reading Assignment SCHC 454: Reading By Candlelight." Web. Accessed May 25, 2016.
+
+ McDaniel, W. Caleb. Open notebook. http://wiki.wcaleb.rice.edu. Web. Accessed May 25, 2016.
+
+Miller, D.A. *Jane Austen and the Secret of Style." Princeton: Princeton University Press, 2006.
+
+Piper, Andrew. *Book Was There: Reading in Electronic Times*. Chicago: University of Chicago Press, 2012.
+
+Pasupathi, Vimala. "The Commonplace Book Assignment.  *The Journal of Interactive Technology and Pedagogy.* March 11 , 2014. Web. Accessed May 25, 2016.
+
+Price, Leah. 2004. “Reading: The State of the Discipline.” Book History 7: 303-320.
+
+Raley, Rita. "Syllabus." *English 146: Distracted Reading (Spring 2015)*. Web.
+
+Ramsay, Stephen. *Reading Machines: Toward an Algorithmic Criticism*. Urbana: U of Illinois Press, 2011.
+
+RED Team. *The Reading Experience Database UK (UK READ)*. Web. Accessed May 25, 2016.
+
+Ross, Shawna. "Markdown Digital Edition of a Poem." Web. *Shawna Ross Academia.edu*.  Web. Accessed May 25, 2016.
+
+Singer, Kate.  "Digital Close Reading: TEI for Teaching Poetic Vocabularies." *The Journal of Interactive Technology and Pedagogy.* May 15, 2013. Web. Accessed May 25, 2016.
+
+Sterne, Laurence. *Tristram Shandy*. Oxford: Oxford University Press, 2009.
+
+Swafford, Annie. "Online Assignment 3: Book Traces." *Digital Tools for the 21st Century
+Sherlock Holmes's London*. Web. Accessed May 25, 2016.
+
+ TAPoRware. http://taporware.ualberta.ca Web. Accessed May 25, 2016.
+
+Tenen, Dennis and Grant Wythoff. "Sustainable Authorship in Plain Text using Pandoc and Markdown." *Programming Historian.* Web. Accessed May 25, 2016.
+
+Trettien, Whitney Ann. "Cut/Copy/Paste: Remixing Words." *Whitney Ann Trettien*. Spring 2012. Web. Accessed May 25, 2016.
+
+Trettien, Whitney Ann. "Whiki." *Whitney Ann Trettien*. http://whitneyannetrettien.com/whiki/index.php?title=Main_Page. Web. Accessed May 25, 2016.
+
+Unsworth, John. "ENSP 482: Theory and Practice of Hypertext syllabus. Spring 1999. *ENSP 482: Theory and Practice of Hypertext*.  Web. Accessed May 25. 2016.
+
+Visconti, Amanda. *Infinite Ulysses*. Web. Accessed May 25, 2016.
+
+Voyant 2.0. http://voyant-tools.org. Accessed May 25, 2016.
+
+Werner, Sarah. "Where Material Book Culture Meets Digital Humanities." *The Journal of Digital Humanities* 1.3 (Summer 2012). http://journalofdigitalhumanities.org/1-3/where-material-book-culture-meets-digital-humanities-by-sarah-werner/
+
+Werner, Sarah.  "Your book's early readers and users." *Wynken de Worde*. Web. Accessed May 25, 2016.
+
+Wilson, Krissy. *The Art of Google Books*. Web. Accessed May 25, 2016.
+
 
 
